@@ -2,7 +2,7 @@
 
 **Full Stack Developer · Computer Engineering graduate (University of Ruhuna, 2026) · Vavuniya, Sri Lanka**
 
-I build production web platforms and the systems behind them: APIs, real-time features, event-driven pipelines, and the CI/CD that ships them. I spent a year at **Yarl Ventures** building and running two live products, and my side work leans into applied AI and data engineering.
+I build production web platforms and the systems behind them: APIs, real-time features, event-driven pipelines, and the CI/CD that ships them. I spent a year at **Yarl Ventures** building features for two live products, and my side work leans into applied AI and data engineering.
 
 - 🔭 Currently: final research on **TRACES**, post-quantum secure vehicular networks with an LLM-based intrusion detection cascade
 - 📄 Co-author: *AutoGradePro* (Academic Sessions 2026, University of Ruhuna)
@@ -15,8 +15,8 @@ I build production web platforms and the systems behind them: APIs, real-time fe
 
 **Full Stack Developer, Yarl Ventures (PVT) Ltd** · *May 2025 – May 2026 (intern → full-time)*
 
-- **[EDUS LMS](https://lms.edustutor.com/)**: built end to end with React 19, TypeScript, Node.js, MongoDB and Redis. 4-role RBAC, attendance, homework with S3 uploads, Socket.IO chat, and PayHere payments with student wallets.
-- **[MediMan](https://mediman.life/)**: telemedicine admin platform. Server-side pagination and field projection to cut API payloads; Twilio, Nodemailer and Firebase notifications; wallet and account-deletion approval workflows; GitHub Actions CI/CD behind Nginx.
+- **[MediMan](https://mediman.life/)**: telemedicine admin platform, my main product. Server-side pagination and field projection to cut API payloads; a read-only viewer-admin role, clinic management and appointment rescheduling; Twilio, Nodemailer and Firebase notifications; wallet and account-deletion approval workflows; GitHub Actions CI/CD behind Nginx.
+- **[EDUS LMS](https://lms.edustutor.com/)**: contributed to a subscription LMS with monthly billing. Role-permission testing across 103 user actions, API response optimisation, tutor profile features, and work on payments, wallets and chat.
 
 ---
 
